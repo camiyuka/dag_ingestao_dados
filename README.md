@@ -8,7 +8,7 @@ Acesse nossos recursos: 🔗
 ## Estrutrura do projeto
 - `dags:` DAGS
 - `dev:` scripts utilizados para desenvolvimento das tarefas da DAG
-- `markdown:` recursos de documentação do pipeline
+- `docs:` recursos de documentação do pipeline
 - `docker-compose.yaml:` configuração Docker para execução do Apache Airflow no Docker
 
 ## Pré-requisitos
